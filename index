@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scaling the Partnerships Organization at Jobber</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Scaling the Partnerships Organization at Jobber</h1>
+        <p>Leveraging Automation and Personalized Approaches</p>
+        <p>Your Name, Date</p>
+    </header>
+    
+    <nav>
+        <ul>
+            <li><a href="#introduction">Introduction</a></li>
+            <li><a href="#current-landscape">Current Landscape</a></li>
+            <li><a href="#need-for-scaling">Need for Scaling</a></li>
+            <li><a href="#approach-to-scaling">Approach to Scaling</a></li>
+            <li><a href="#automation">Automation</a></li>
+            <li><a href="#personalized-approaches">Personalization</a></li>
+            <li><a href="#tools">Tools</a></li>
+            <li><a href="#integration">Integration</a></li>
+            <li><a href="#case-studies">Case Studies</a></li>
+            <li><a href="#metrics">Metrics & KPIs</a></li>
+            <li><a href="#roadmap">Roadmap</a></li>
+            <li><a href="#additional-info">Additional Info</a></li>
+            <li><a href="#summary">Summary</a></li>
+            <li><a href="#qa">Q&A</a></li>
+            <li><a href="#thank-you">Thank You</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section id="introduction">
+            <h2>Introduction</h2>
+            <p>Overview of objectives and the importance of scaling the partnerships organization.</p>
+        </section>
+
+        <section id="current-landscape">
+            <h2>Current Landscape</h2>
+            <p>Overview of Jobber’s partnerships program and existing tool stack: Salesforce and PartnerStack.</p>
+        </section>
+
+        <section id="need-for-scaling">
+            <h2>Need for Scaling</h2>
+            <p>Importance of scaling for growth and key challenges in the current setup.</p>
+        </section>
+
+        <section id="approach-to-scaling">
+            <h2>Approach to Scaling</h2>
+            <p>Combining automation with personalization and the benefits of this approach.</p>
+        </section>
+
+        <section id="automation">
+            <h2>Automation</h2>
+            <p>Definition, importance, and examples of tasks that can be automated.</p>
+        </section>
+
+        <section id="personalized-approaches">
+            <h2>Personalization</h2>
+            <p>Definition, importance, and how personalization enhances partner relationships.</p>
+        </section>
+
+        <section id="tools">
+            <h2>Tools</h2>
+            <p>Overview of tools like Crossbeam, Reveal, Slack, Zapier, and their capabilities.</p>
+        </section>
+
+        <section id="integration">
+            <h2>Integration</h2>
+            <p>How to integrate these tools with Salesforce and PartnerStack and the benefits of these integrations.</p>
+        </section>
+
+        <section id="case-studies">
+            <h2>Case Studies</h2>
+            <p>Successful examples of automation and personalized partner engagement, with key takeaways and results.</p>
+        </section>
+
+        <section id="metrics">
+            <h2>Metrics & KPIs</h2>
+            <p>Key metrics to track success, industry averages, and example metrics.</p>
+            <ul>
+                <li>Partner Sourced Revenue: $1M per quarter (20-30%)</li>
+                <li>Number of Active Partners: 50 per quarter (60-70%)</li>
+                <li>Partner Contribution to Pipeline: $2M per quarter (15-25%)</li>
+                <li>Partner Retention Rate: 85% annually (80-90%)</li>
+                <li>Deal Win Rate from Partner Leads: 45% (40-50%)</li>
+                <li>Time to Close Partner-Referred Deals: 60 days (20-30% faster)</li>
+                <li>Partner Satisfaction Score: 8.5 (8/10 or higher)</li>
+                <li>Engagement Rate in Partner Portal: 55% (>50%)</li>
+            </ul>
+        </section>
+
+        <section id="roadmap">
+            <h2>Roadmap</h2>
+            <p>Step-by-step implementation plan with timeline and milestones.</p>
+        </section>
+
+        <section id="additional-info">
+            <h2>Additional Info</h2>
+            <p>Training and support, risk management, feedback, collaboration with stakeholders, and tools evaluation and selection.</p>
+        </section>
+
+        <section id="summary">
+            <h2>Summary</h2>
+            <p>Recap of key points and final thoughts on scaling the partnerships organization.</p>
+        </section>
+
+        <section id="qa">
+            <h2>Q&A</h2>
+            <p>Open floor for questions from the interview panel.</p>
+        </section>
+
+        <section id="thank-you">
+            <h2>Thank You</h2>
+            <p>Thank the panel for their time and provide contact information for follow-up.</p>
+        </section>
+    </main>
+</body>
+</html>
